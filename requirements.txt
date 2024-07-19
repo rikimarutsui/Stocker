@@ -1,0 +1,9 @@
+quandl
+matplotlib 
+numpy 
+pandas 
+pytrends 
+plotly 
+yfinance 
+pystan 
+prophet
